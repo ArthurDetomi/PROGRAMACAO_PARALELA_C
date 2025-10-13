@@ -1,0 +1,5 @@
+Crie um programa com 5 threads usando laço e
+passe para cada uma o nome da respectiva thread.
+Cada thread dorme por 10 segundos de 1 em 1 segundo.
+Cada thread retorna ao término um código de ERRO caso o
+seu nome não inicie com letra maiúscula, e SUCESSO caso inicie.
